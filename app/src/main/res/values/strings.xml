@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lab3SimpleCalculator</string>
+    <string name="ButtonAdd">+</string>
+    <string name="button_01">1</string>
+    <string name="button_02">2</string>
+    <string name="button_03">3</string>
+    <string name="sdfds">\\u00F7</string>
+    <string name="button_04">4</string>
+    <string name="button_05">5</string>
+    <string name="button_06">6</string>
+    <string name="df">\\u00D7</string>
+    <string name="dddd">\\u00D7</string>
+    <string name="rndd">u00D7</string>
+    <string name="buttonDiv">÷</string>
+    <string name="buttonMult">×</string>
+    <string name="button_07">7\n</string>
+    <string name="button_08">8\n</string>
+    <string name="button_09">9</string>
+    <string name="k" />
+    <string name="buttonCE">C</string>
+    <string name="button_00">0</string>
+    <string name="buttonDot">.</string>
+    <string name="buttonSub">-</string>
+</resources>
